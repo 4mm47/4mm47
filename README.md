@@ -20,6 +20,7 @@ I'm a **Cyber Security student** focused on building a strong foundation in secu
 
 - 🔐 Currently deepening my knowledge of **network security, web application security, and Linux internals**
 - 🛠️ Building small tools and automation scripts in **Python** and **Bash**
+- 🧰 Hands-on practice with industry tools like **Nmap, Wireshark, Burp Suite Pro, and Metasploit**
 - 📚 Practicing on **CTF challenges** and documenting my learning as I go
 - 🌱 Open to collaborating on **security tooling, scripting, and web-based projects**
 - ⚡ Long-term goal: becoming a well-rounded penetration tester / security engineer
@@ -41,6 +42,27 @@ I'm a **Cyber Security student** focused on building a strong foundation in secu
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,linux,git,github,vscode,docker&theme=dark" alt="Tools" />
+
+</div>
+
+<br>
+
+## Security Tools
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-1a1a1a?style=for-the-badge&logo=nmap&logoColor=C0C0C0)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=C0C0C0)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=C0C0C0)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a1a1a?style=for-the-badge&logo=metasploit&logoColor=C0C0C0)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=C0C0C0)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1a1a1a?style=for-the-badge&logo=parrotsecurity&logoColor=C0C0C0)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-1a1a1a?style=for-the-badge&logo=owasp&logoColor=C0C0C0)
+![Hydra](https://img.shields.io/badge/Hydra-1a1a1a?style=for-the-badge&logo=hydra&logoColor=C0C0C0)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1a1a1a?style=for-the-badge&logo=johntheripper&logoColor=C0C0C0)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1a1a1a?style=for-the-badge&logo=aircrackng&logoColor=C0C0C0)
+![Nessus](https://img.shields.io/badge/Nessus-1a1a1a?style=for-the-badge&logo=nessus&logoColor=C0C0C0)
+![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=C0C0C0)
 
 </div>
 
