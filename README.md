@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="130" alt="4mm47 logo" />
+<img src="arch.png" width="130" alt="4mm47 logo" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=150&section=header&text=4MM47&fontSize=58&fontColor=E8E8E8&fontAlignY=45&desc=CYBER%20SECURITY%20STUDENT%20%E2%80%A2%20ASPIRING%20ETHICAL%20HACKER&descAlignY=70&descAlign=50&descColor=C0C0C0" width="100%" alt="header banner" />
 
