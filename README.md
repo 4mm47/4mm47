@@ -1,156 +1,117 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=C0C0C0&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;4MM47+%7C+Cyber+Security+Student;sudo+access_granted...;Breaking+things+to+understand+them." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2E2E2E&height=200&section=header&text=4mm47&fontSize=60&fontColor=C0C0C0&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20Ethical%20Hacker&descAlignY=58&descAlign=50&descColor=A0A0A0" width="100%" alt="header banner" />
 
-</div>
-
-<div align="center">
-
-```
-   ▄████████    ▄▄▄▄███▄▄▄▄      ▄▄▄▄███▄▄▄▄            ▄█    █▄     ▄████████
-  ███    ███  ▄██▀▀▀███▀▀▀██▄  ▄██▀▀▀███▀▀▀██▄         ███    ███   ███    ███
-  ███    ███  ███   ███   ███  ███   ███   ███         ███    ███   ███    █▀
-  ███    ███  ███   ███   ███  ███   ███   ███        ▄███▄▄▄▄███▄▄ ███
-▀███████████  ███   ███   ███  ███   ███   ███       ▀▀███▀▀▀▀███▀  ███
-  ███    ███  ███   ███   ███  ███   ███   ███         ███    ███   ███    █▄
-  ███    ███  ███   ███   ███  ███   ███   ███         ███    ███   ███    ███
-  ███    █▀    ▀█   ███   █▀    ▀█   ███   █▀          ███    █▀    ████████▀
-```
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=4mm47&label=SIGNAL+TRACES&color=808080&style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-2b2b2b?style=flat-square&labelColor=000000)
-![Access](https://img.shields.io/badge/ACCESS-GRANTED-silver?style=flat-square&labelColor=000000)
-
-</div>
-
----
-
-### `> cat /etc/passwd | grep 4mm47`
-
-```yaml
-handle:        4mm47
-role:          Cyber Security Student / Ethical Hacker in the making
-focus:         Offensive Security | Scripting | Automation | Exploit Dev
-current_lab:   /home/4mm47/ctf-writeups
-shell:         /bin/bash
-status:        [ RUNNING ]
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Securing+systems%2C+one+line+at+a+time.;Learning+offensive+%26+defensive+security.;Turning+curiosity+into+capability." alt="Typing SVG" />
 
 <br>
 
-### `> ls -la ~/arsenal/languages`
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=silver)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=silver)
-![Bash](https://img.shields.io/badge/Bash-2b2b2b?style=for-the-badge&logo=gnubash&logoColor=silver)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=silver)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=silver)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=silver)
+![Profile Views](https://komarev.com/ghpvc/?username=4mm47&label=Profile+Views&color=808080&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/4mm47?label=Followers&style=for-the-badge&color=808080&labelColor=1a1a1a)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-2E2E2E?style=for-the-badge&labelColor=000000)
 
 </div>
-
-### `> ls -la ~/arsenal/technologies`
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=silver)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=silver)
-![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=silver)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=silver)
-![Wireshark](https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=silver)
-![Nmap](https://img.shields.io/badge/Nmap-2b2b2b?style=for-the-badge&logo=nmap&logoColor=silver)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=silver)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=silver)
-![Metasploit](https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=silver)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=silver)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=silver)
-
-</div>
-
----
-
-### `> nmap -sV --script vuln 4mm47.dev`
-
-```
-PORT      STATE  SERVICE          VERSION
-22/tcp    open   ssh              curiosity-driven learner
-80/tcp    open   http             building security tools
-443/tcp   open   https            studying real-world exploits
-1337/tcp  open   leet             CTF player & bug hunter
-8080/tcp  open   proxy            practicing red team ops
-```
 
 <br>
 
-### `> tree ~/current_objectives`
+## About Me
 
-```
-current_objectives
-├── network-security/
-│   └── deepening recon, scanning & enumeration skills
-├── web-exploitation/
-│   └── OWASP Top 10, SQLi, XSS, auth bypass practice
-├── scripting-automation/
-│   └── writing Python & Bash tools for pentest workflows
-└── ctf-writeups/
-    └── documenting solved challenges & techniques
-```
+I'm a **Cyber Security student** focused on building a strong foundation in secure systems, scripting, and applied problem-solving. I enjoy breaking things down to understand how they work, then building tools and scripts that make security work faster and smarter.
 
----
+- 🔐 Currently deepening my knowledge of **network security, web application security, and Linux internals**
+- 🛠️ Building small tools and automation scripts in **Python** and **Bash**
+- 📚 Practicing on **CTF challenges** and documenting my learning as I go
+- 🌱 Open to collaborating on **security tooling, scripting, and web-based projects**
+- ⚡ Long-term goal: becoming a well-rounded penetration tester / security engineer
 
-### `> ./github-stats.sh --render`
+<br>
+
+## Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4mm47&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=silver" alt="4mm47's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mm47&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c0c0c0&text_color=silver" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=c,python,bash,html,css,js&theme=dark" alt="Languages" />
+
+</div>
+
+<br>
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,linux,git,github,vscode,docker&theme=dark" alt="Tools" />
+
+</div>
+
+<br>
+
+## Focus Areas
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<b>Network Security</b><br>
+<sub>Reconnaissance, scanning & enumeration</sub>
+</td>
+<td align="center" width="200">
+<b>Web Security</b><br>
+<sub>OWASP Top 10, SQLi, XSS, auth flaws</sub>
+</td>
+<td align="center" width="200">
+<b>Scripting & Automation</b><br>
+<sub>Python & Bash tooling for workflows</sub>
+</td>
+<td align="center" width="200">
+<b>CTF Practice</b><br>
+<sub>Applied problem-solving & writeups</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=4mm47&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0C0C0&icon_color=808080&text_color=A0A0A0" alt="4mm47's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mm47&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C0C0C0&text_color=A0A0A0" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4mm47&theme=dark&hide_border=true&background=0D0D0D&stroke=808080&ring=C0C0C0&fire=C0C0C0&currStreakLabel=C0C0C0" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4mm47&theme=dark&hide_border=true&background=0D1117&stroke=808080&ring=C0C0C0&fire=C0C0C0&currStreakLabel=C0C0C0" alt="GitHub Streak" width="70%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4mm47&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=C0C0C0&line=808080&point=FFFFFF" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4mm47&theme=github-compact&hide_border=true&bg_color=0D1117&color=C0C0C0&line=808080&point=FFFFFF" alt="Activity Graph" width="100%" />
 
 </div>
 
----
+<br>
 
-### `> echo $CONNECT`
+## Connect With Me
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=silver)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=silver)
-![Twitter](https://img.shields.io/badge/Twitter-2b2b2b?style=for-the-badge&logo=twitter&logoColor=silver)
-![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=silver)
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C0C0C0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=C0C0C0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C0C0C0" /></a>
 
-*Replace the badge links above with your real profile URLs.*
+<sub>Replace the # links above with your real profile URLs.</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-```
-$ sudo access --grant visitor
-[sudo] password for 4mm47: ********
-Access granted. Welcome to the terminal.
-"The quieter you become, the more you are able to hear."
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:0D0D0D&height=100&section=footer" width="100%" alt="footer banner" />
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=808080&label=root%20access&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2F4mm47%2Fprofile&style=flat-square&labelColor=000000)
+<sub>Thanks for stopping by — feel free to explore my repositories.</sub>
 
 </div>
