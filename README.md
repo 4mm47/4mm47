@@ -110,16 +110,7 @@ I'm a **Cyber Security student** focused on building a strong foundation in secu
 
 ## GitHub Analytics
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4mm47&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=E8E8E8&icon_color=C0C0C0&text_color=C0C0C0" alt="4mm47's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mm47&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E8E8E8&text_color=C0C0C0" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4mm47&theme=dark&hide_border=true&background=000000&stroke=C0C0C0&ring=C0C0C0&fire=C0C0C0&currStreakLabel=C0C0C0" alt="GitHub Streak" width="70%" />
 
 </div>
 
