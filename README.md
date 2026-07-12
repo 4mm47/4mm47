@@ -112,22 +112,6 @@ I'm a **Cyber Security student** focused on building a strong foundation in secu
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4mm47&theme=github-compact&hide_border=true&bg_color=0D1117&color=C0C0C0&line=808080&point=FFFFFF" alt="Activity Graph" width="100%" />
 
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C0C0C0" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=C0C0C0" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C0C0C0" /></a>
-
-<sub>Replace the # links above with your real profile URLs.</sub>
-
-</div>
-
 <br>
 
 <div align="center">
