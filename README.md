@@ -5,7 +5,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=4mm47&label=PROFILE+VIEWS&color=E8E8E8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=4mm47&label=PROFILE+VIEWS&color=E8E8E8&style=for-the-badge&color=E8E8E8)
 ![Followers](https://img.shields.io/github/followers/4mm47?label=FOLLOWERS&style=for-the-badge&color=E8E8E8&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-Learning%20%26%20Building-E8E8E8?style=for-the-badge&labelColor=000000)
 
