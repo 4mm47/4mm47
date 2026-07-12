@@ -5,8 +5,8 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=4mm47&label=PROFILE+VIEWS&color=E8E8E8&style=for-the-badge&color=E8E8E8)
-![Followers](https://img.shields.io/github/followers/4mm47?label=FOLLOWERS&style=for-the-badge&color=E8E8E8&labelColor=000000)
+![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F4mm47%2F4mm47.json&style=for-the-badge&label=PROFILE%20VIEWS&labelColor=000000&color=E8E8E8)
+![Followers](https://img.shields.io/github/followers/4mm47?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=E8E8E8)
 ![Status](https://img.shields.io/badge/STATUS-Learning%20%26%20Building-E8E8E8?style=for-the-badge&labelColor=000000)
 
 </div>
